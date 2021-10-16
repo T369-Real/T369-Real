@@ -1,2 +1,2 @@
->  Soy un entusiasta del desarrollo web (Front-End) que algún día sueña con convertirse en un developer full-stack.  
+>  Soy un entusiasta del desarrollo web (Front-End). 
 > NOOB/Learning
