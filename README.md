@@ -1,2 +1,2 @@
->  Soy un entusiasta del desarrollo web (Front-End). 
-> NOOB/Learning
+* low-level enthusiast
+* NOOB/Learning
