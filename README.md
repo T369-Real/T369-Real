@@ -1,7 +1,6 @@
 <p align="center">
 <img src="/assets/amongus.gif">
 </p>
-<hr>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%236BCF7&size=30&center=true&lines=Hello++There+;I'm+Matias">
 </p>
