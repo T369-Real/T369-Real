@@ -1,3 +1,7 @@
+<p align="center">
+<img src="/assets/amongus.gif">
+</p>
+
 * low-level enthusiast
 * NOOB/Learning
 
